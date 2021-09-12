@@ -20,6 +20,13 @@ a{
     text-decoration: none;
     display: inline-block;
 }
+.headerlink{
+    border-right: solid blanchedalmond 0.1em;
+    padding-top: 1em;
+}
+.headerlink2{
+    padding-top: 1em;
+}
 hr{
     color: blanchedalmond;
 }
